@@ -60,8 +60,8 @@ abstract class HoaDon {
   }
 
   void xuat() {
-    print('Mã KH: $maKH | Tên: $tenKH | Số lượng: $soLuong | Giá bán: $giaBan');
-    print('Thuế VAT: $thueVAT | Chiết khấu: $chietKhau | Trợ giá: $troGia');
-    print('Thành tiền: $thanhTien');
+    print('Mã KH: $maKH | Tên: $tenKH | Số lượng: $soLuong | Giá bán: ${giaBan.toStringAsFixed(0)}');
+    print('Thuế VAT: ${thueVAT().toStringAsFixed(0)} | Chiết khấu: ${chietKhau().toStringAsFixed(0)} | Trợ giá: ${troGia().toStringAsFixed(0)}');
+    print('Thành tiền: ${thanhTien().toStringAsFixed(0)}');
   }
 }

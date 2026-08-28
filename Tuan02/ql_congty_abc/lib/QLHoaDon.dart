@@ -118,7 +118,7 @@ class QuanLyHoaDon {
   }
 
   void sapXepDanhSach() {
-    dsHoaDon.sort((a, b) {
+    _dsHoaDon.sort((a, b) {
       int cmpSL = a.soLuong.compareTo(b.soLuong);
       if (cmpSL != 0) return cmpSL;
       return b.thanhTien().compareTo(a.thanhTien());
