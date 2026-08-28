@@ -1,0 +1,8 @@
+import 'package:ql_mon_hoc/ql_mon_hoc.dart';
+import 'package:test/test.dart';
+
+void main() {
+  test('calculate', () {
+    expect(calculate(), 42);
+  });
+}

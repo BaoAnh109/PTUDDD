@@ -1,0 +1,10 @@
+LT#IT001#Nhap mon Lap trinh#3#8.5#9.0
+LT#IT002#Cau truc du lieu#4#7.0#8.5
+TH#IT001.TH#TH Nhap mon Lap trinh#1#8.0#8.5#9.0
+TH#IT002.TH#TH Cau truc du lieu#1#7.5#8.0#8.0
+DA#IT090#Do an Co so nganh#2#9.0#8.5
+DA#IT099#Do an Tot nghiep#6#9.5#9.0
+LT#IT003#Mang may tinh#3#7.5#8.0
+TH#IT003.TH#TH Mang may tinh#1#8.0#8.0#8.5
+LT#IT004#He dieu hanh#3#8.0#7.5
+DA#IT095#Do an Chuyen nganh#3#8.5#8.5
